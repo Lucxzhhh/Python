@@ -1,10 +1,18 @@
-# Cada tipo de variável guarda uma informação específica :
+# Cada tipo de dado guarda uma informação específica
 
-Nome = "Lucas"    # Tipo da variável String (Guarda palavras ou frases).
+nome = "Lucas"    # String: guarda palavras ou frases
 
-Idade = 18        # Tipo da variável Int (Guarda números inteiros, números sem virgula).
+idade = 18        # Int: guarda números inteiros (sem decimal)
 
-Altura = 1.80     # Tipo da variável Float (Guarda números decimais, números com vírgula ).
+altura = 1.80     # Float: guarda números decimais (usa ponto)
 
-Certo = True      # Tipo da variável Bool (Serve para respostas de sim ou não).
-Errado = False    # Tipo da variável Bool (Serve para respostas de sim ou não).
+certo = True      # Bool: verdadeiro (sim)
+errado = False    # Bool: falso (não)
+
+
+# O que é uma variável?
+
+# Variável é um idade que guarda um valor na memória
+# Exemplo:
+
+idade = 18
